@@ -30,8 +30,7 @@ UniLink is a community-based app designed for college students, enabling them to
 To get started with UniLink, follow these steps:
 
 Clone the Repository:
-  git clone https://github.com/yourusername/unilink.git
-  cd unilink
+  git clone https://github.com/nida242004/unilink.git
 
 Install Dependencies: Make sure you have Flutter installed, then run:
   flutter pub get
