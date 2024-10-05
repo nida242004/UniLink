@@ -52,7 +52,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) f
 
 For any questions or inquiries, please reach out to:
 - **Email**: syedanidafathima1@gmail.com
-- **GitHub**: [yourusername](https://github.com/nida242004)
+- **GitHub**: [nida242004](https://github.com/nida242004)
 
 Thank you for checking out UniLink! We hope you enjoy using the app and find it valuable for your academic journey.
 
